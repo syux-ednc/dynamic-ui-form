@@ -1,0 +1,23 @@
+[
+  {
+    "id": "xxx",
+    "name": "xxx",
+    "title": "Name",
+    "desc": "Enter your name as represented in your ID Card.",
+    "tooltip" : null,
+    "placeholder": "E.g. First Name , Last Name",
+    "type": "TEXTFIELD",
+    "value": null,
+    "readOnly": false,
+    "disabled": false,
+    "visible": true,
+    "options": null,
+    "validations": [
+      {
+        "validator": "required",
+        "value": null,
+        "message": "This is a required field!"
+      }
+    ]
+  }
+]
